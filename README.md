@@ -1,5 +1,9 @@
 # Errorizer - A stringer, but for Errors
 
+[![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
+
+[godocs]: https://pkg.go.dev/github.com/ryanfaerman/errorizer
+
 I really enjoy using Stringer on my constants, it sames me time and prevents all sorts of errors in my code. Plus it's just neat!
 
 This tool builds on that work (it uses most of the same code) but generates an
